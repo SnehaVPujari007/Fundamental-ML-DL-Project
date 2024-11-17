@@ -14,14 +14,8 @@ This project uses machine learning to predict the survival of passengers aboard 
 
 ## Overview
 The Titanic dataset contains information about passengers on the ill-fated Titanic ship, such as:
-- Passenger class
-- Name
-- Sex
-- Age
-- Number of siblings or spouses aboard
-- Number of parents or children aboard
-- Ticket fare
-- Cabin and Embarked location
+- Survived people
+
 
 The goal of this project is to build a machine learning model that predicts whether a passenger survived or not based on these features.
 
